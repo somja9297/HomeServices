@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/myRequest"
+        android:title="My Requests"
+        />
+    <item
+        android:id="@+id/appInfo"
+        android:title="App Info"
+        />
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        />
+
+</menu>
